@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shopzilla-not-blair-subsection.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://cents-portal-ssl-can.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-05 03:40:37 UTC
+Created   : 2026-09-05 09:03:20 UTC
 =======================================================
