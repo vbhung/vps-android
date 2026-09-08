@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sat-name-raise-adding.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://need-loved-watts-writes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-07 22:48:10 UTC
+Created   : 2026-09-08 03:46:27 UTC
 =======================================================
